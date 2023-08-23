@@ -87,20 +87,7 @@ health = [
     "ncbi.nlm.nih.gov", "ahajournals.org", "hopkinsmedicine.org", "ahrq.gov",
     "verywellhealth.com", "drugs.com", "clevelandclinic.org", "emedicinehealth.com", "medscape.com",
     "stanfordhealthcare.org", "uofmhealth.org", "ucsfhealth.org", "ama-assn.org", "pennmedicine.org",
-    "cdc.gov", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org", "nejm.org", "nejm.org",
-    "nejm.org", "nejm.org", "nejm.org"
+    "cdc.gov"
 ]
 
 
