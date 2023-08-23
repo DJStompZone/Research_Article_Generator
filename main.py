@@ -536,7 +536,7 @@ def extract(prompt):
                 website_text = [text for text in soup.stripped_strings]
                 similar_text = find_similar_text(necessaryquery, website_text)
                 if similar_text:
-                    print(similar_text)
+                    #print(similar_text)
                     #print(f"Similar text found.")
                     citations.append(link)
                     finalmessages[index]+="["+str(counter)+"]"
